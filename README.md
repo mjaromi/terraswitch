@@ -14,6 +14,8 @@ $ wget -O /usr/local/bin/terraswitch https://raw.githubusercontent.com/mjaromi/t
 $ chmod +x /usr/local/bin/terraswitch
 ```
 
+!!! Remember to change `ENVIRONMENTS` variable (line 11 in terraswitch.sh) !!! 
+
 ## usage
 ```bash
 terraswitch
